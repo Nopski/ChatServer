@@ -1,0 +1,13 @@
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.exe.config
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.exe
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.pdb
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\bin\Debug\NetworksApi.dll
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.csprojResolveAssemblyReference.cache
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.Form1.resources
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.Properties.Resources.resources
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.csproj.GenerateResource.Cache
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.exe
+E:\dropbox\Dropbox\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.pdb
+D:\Dropbox\visual studio\example visual studio\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.exe.config
+D:\Dropbox\visual studio\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.exe
+D:\Dropbox\visual studio\example visual studio\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.pdb
